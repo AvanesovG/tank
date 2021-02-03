@@ -3,6 +3,9 @@ package display;
 import javax.swing.*;
 import java.awt.*;
 
+/**
+ * Класс отвечающий за отрисовку окна
+ */
 public abstract class Display {
 
 
